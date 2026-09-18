@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Juan Riverón 🇵🇾</h1>
-
-- 🎓 Pursuing a degree in **Computer Science Engineering at FP-UNA.**
+Juan Riverón
+- Pursuing a degree in **Computer Science Engineering at FP-UNA.**
 
 
 
